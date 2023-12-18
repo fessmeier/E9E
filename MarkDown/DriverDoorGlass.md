@@ -42,7 +42,7 @@ The hinge is attached to the door with 6 screws.  Five of the screws are standar
 This is a screw head for which I don't have a wrench.  I also don't know yet what kind of tool is needed.  Looks like some kind of torx.  
 ![Damn Screw](../Images/Door/HingeScrew.jpeg)  
 
-After removing everything but the 1 hinge screw I am now left with an empty door.  Once the last screw is out the door can be removed.
+After removing everything but the 1 hinge screw I am now left with an empty door.  Once the last screw is out the door can be removed.  
 ![Damn Screw](../Images/Door/FinalDoor.jpg)  
 
 [Back](../readme.md)
