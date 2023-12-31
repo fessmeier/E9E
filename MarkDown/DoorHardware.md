@@ -1,3 +1,9 @@
+<style>
+r { color: Red }
+b { color: Blue }
+g { color: Green }
+</style>
+
 # 12/29/2023 Driver Door Details
 This page will try to document all the bolts and fasteners used for the door.  
 
@@ -55,6 +61,12 @@ The inner felt piece can be removed by taking off the 4 clips.
 To remove the clip the front was pulled up by the pick, then the back was pulled up by the vertical screw driver, and then a second screw driver pushed the clip up and off the trim.  
 ![Inside trim](../Images/Door/spread_clip.jpeg) 
 ![Inside trim](../Images/Door/remove_clip.jpeg) 
-The part number for the inner felt strip or door brush is 51216754239 (Brush) Not available!
+The part number for the inner felt strip or door brush is 51216754239 (Brush) Not available!  
+
+## Bolt Information
+### Back window slider
+|ID|Quantity|Size|Length|Socket|
+|--|--------|----|------|------|
+|<R>A</R>|x2|M8-1.25|25|13|
 
 [Back](../readme.md)
