@@ -61,6 +61,6 @@ The part number for the inner felt strip or door brush is 51216754239 (Brush) No
 ### Back window slider
 |ID|Quantity|Size|Length|Socket|
 |--|--------|----|------|------|
-|<a style='color:red'> A </a>|x2|M8-1.25|25|13|
+|<p style='color:red'> A </p>|x2|M8-1.25|25|13|
 
 [Back](../readme.md)
