@@ -16,7 +16,7 @@ The U channel with felt can be removed with a screw driver.  Simply pull it up.
 ![Brush2](../../Images/Door/felt_removed.jpeg)    
 
 The rubber seal is difficult to remove.  I filed down an inexpensive pick from Harbor Freight so it would fit and slowly walked it out.  
-![Seal](../Images/Door/pick_rubber_seal.jpeg)  
+![Seal](../../Images/Door/pick_rubber_seal.jpeg)  
 
 Here are all the inner seals removed  
 ![All removed](../../Images/Door/inner_seals_removed.jpeg)  
