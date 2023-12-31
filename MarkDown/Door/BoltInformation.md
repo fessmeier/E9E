@@ -21,7 +21,7 @@ Top mounting locations
 Bottom mounting locations  
 ![Bottom Rear slider](../../Images/Door/reartrackbottom.jpeg)  
 
-Hardware picture 
+Hardware picture  
 ![Hardware](../../Images/Door/reartrackinfo.jpeg)  
 
 [Back](../DoorHardware.md)
