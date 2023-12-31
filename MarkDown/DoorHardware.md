@@ -1,9 +1,3 @@
-<style>
-r { color: Red }
-b { color: Blue }
-g { color: Green }
-</style>
-
 # 12/29/2023 Driver Door Details
 This page will try to document all the bolts and fasteners used for the door.  
 
@@ -67,6 +61,6 @@ The part number for the inner felt strip or door brush is 51216754239 (Brush) No
 ### Back window slider
 |ID|Quantity|Size|Length|Socket|
 |--|--------|----|------|------|
-|$${\color{red}A}$$|x2|M8-1.25|25|13|
+|<font style='color:red'>A</font>|x2|M8-1.25|25|13|
 
 [Back](../readme.md)
